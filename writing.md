@@ -11,7 +11,6 @@ The goals of this project is to
 <h2> Data Set </h2>
 
 The data used in this analysis included annual CO₂ emissions from the year 2013 to 2023  for 190 countries. The data was sourced from the Global Carbon Project(GCD), It covers fossil CO₂ emissions, per capita estimates and includes oficial reports to the United Nations Framework Convention on Climate Change (UNFCCC),national official statistical agencies, CDIAC-FF, Energy Institute, and many others
-
 <h2> Key Findings </h2>
   
    1.   <h3>Continued Increase in Global Emissions</h3>
