@@ -18,7 +18,8 @@ The data used in this analysis included annual CO₂ emissions from the year 201
 
 Total global CO2 emissions increased by 3.1 billion metric tons (11.4%) between 2010 and 2020, reaching a new high of 36.7 billion tons in 2019.However, emissions growth has slowed in recent years, rising just 0.5% from 2018 to 2020 compared to 3.1% annual growth from 2010-2015.
 From 2013 to 2024, global CO₂ emissions trends show contrasting patterns across regions. Countries like China and India exhibit steady growth in emissions, driven by rapid industrialization and rising energy demands. In contrast, regions like the EU-28 and the United States have stabilized or slightly reduced emissions, reflecting efforts in policy-driven sustainability and green technology adoption. These trends underscore the challenge of achieving global emissions reduction targets, especially with rising contributions from developing economies.
- <img title=" Emissions from 2010 " alt="Alt text" src="C:\Users\Rono\Music\newplot.png">
+ 
+ ![Alt Text](./visuals/Emission line chart.png)
 
   1.  <h3> Top Emitters </h3>
 
