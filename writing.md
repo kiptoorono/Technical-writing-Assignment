@@ -3,14 +3,14 @@
 <h2>   Objective  </h2>
 The goals of this project is to
 
-   - Identify the trends and patterns in CO₂ emissions over the last 10 years and identify 
+   - Identify the trends and patterns in CO₂ emissions over the last 10 years
    - Identify key insights that could inform policy decisions or corporate sustainability efforts.
    - Develop insights to inform strategies for adapting to the effects of climate change i.e rise in sea level.
    - Track CO₂ emissions to understand effects of human activities on the environment
 
 <h2> Data Set </h2>
 
-The data used in this analysis included annual CO₂ emissions from the year 2013 to 2023  for 190 countries. The data was sourced from the Global Carbon Project(GCD), It covers fossil CO₂ emissions, per capita estimates and includes oficial reports to the United Nations Framework Convention on Climate Change (UNFCCC),national official statistical agencies, CDIAC-FF, Energy Institute, and many others
+The data used in this analysis included annual CO₂ emissions from the year 2000 to 2020 for 190 countries. The data was sourced from the Global Carbon Project(GCD), It covers fossil CO₂ emissions, per capita estimates and includes official reports to the United Nations Framework Convention on Climate Change (UNFCCC),national official statistical agencies, CDIAC-FF, Energy Institute, and many others
 
 <h2> Key Findings </h2>
   
@@ -22,9 +22,9 @@ From 2013 to 2024, global CO₂ emissions trends show contrasting patterns acros
  ![Emission Line Chart](./visuals/emission_linechart.png)
 
 
-  1.  <h3> Top Emitters </h3>
+  2.  <h3> Top Emitters </h3>
 
-China, the world's largest CO₂ emitter, has increased its CO₂ output by approximately 1.5 billion tonnes (12.1%) since 2010, although its share of global emissions remains stable at around 28%. The United States, the second-largest emitter, reduced its emissions by 0.8 billion tonnes (-12.5%) due to a shift away from coal power. India, the third-largest emitter, saw a 1 billion tonne (32.8%) increase, reflecting rapid economic growth and expanding energy demands. Russia, the fourth-largest emitter, maintained relatively stable emissions over the last decade, driven by its dependence on fossil fuel exports. The EU-28 rounds out the top five, with emissions declining by 0.5 billion tonnes (-10%) as renewable energy adoption increased.
+China, the world's largest CO₂ emitter, has increased its CO₂ output by approximately 1.5 billion tones (12.1%) since 2010, although its share of global emissions remains stable at around 28%. The United States, the second-largest emitter, reduced its emissions by 0.8 billion tones (-12.5%) due to a shift away from coal power. India, the third-largest emitter, saw a 1 billion tonne (32.8%) increase, reflecting rapid economic growth and expanding energy demands. Russia, the fourth-largest emitter, maintained relatively stable emissions over the last decade, driven by its dependence on fossil fuel exports. The EU-28 rounds out the top five, with emissions declining by 0.5 billion tones (-10%) as renewable energy adoption increased.
 ![Top Emitters](./visuals/top_emitters.png)
 
 
