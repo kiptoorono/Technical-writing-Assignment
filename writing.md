@@ -19,12 +19,13 @@ The data used in this analysis included annual CO₂ emissions from the year 201
 Total global CO2 emissions increased by 3.1 billion metric tons (11.4%) between 2010 and 2020, reaching a new high of 36.7 billion tons in 2019.However, emissions growth has slowed in recent years, rising just 0.5% from 2018 to 2020 compared to 3.1% annual growth from 2010-2015.
 From 2013 to 2024, global CO₂ emissions trends show contrasting patterns across regions. Countries like China and India exhibit steady growth in emissions, driven by rapid industrialization and rising energy demands. In contrast, regions like the EU-28 and the United States have stabilized or slightly reduced emissions, reflecting efforts in policy-driven sustainability and green technology adoption. These trends underscore the challenge of achieving global emissions reduction targets, especially with rising contributions from developing economies.
  
- ![Alt Text](./visuals/Emission line chart.png)
+ ![Emission Line Chart](./visuals/emission_linechart.png)
+
 
   1.  <h3> Top Emitters </h3>
 
 China, the world's largest CO₂ emitter, has increased its CO₂ output by approximately 1.5 billion tonnes (12.1%) since 2010, although its share of global emissions remains stable at around 28%. The United States, the second-largest emitter, reduced its emissions by 0.8 billion tonnes (-12.5%) due to a shift away from coal power. India, the third-largest emitter, saw a 1 billion tonne (32.8%) increase, reflecting rapid economic growth and expanding energy demands. Russia, the fourth-largest emitter, maintained relatively stable emissions over the last decade, driven by its dependence on fossil fuel exports. The EU-28 rounds out the top five, with emissions declining by 0.5 billion tonnes (-10%) as renewable energy adoption increased.
-<img title=" Top 5 emitters " alt="Alt text" src="C:\Users\Rono\Desktop\emission table.png">
+![Top Emitters](./visuals/top_emitters.png)
 
 
 <h2>Implications for Policy and Corporate Action</h2>
